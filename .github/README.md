@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 𝙎𝙖𝙣𝙖𝙩𝙖𝙣𝙞 ✘ 𝙈𝙪𝙨𝙞𝙘 」──
+    ──「 Ruhi ✘ 𝙈𝙪𝙨𝙞𝙘 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/e47d7251464ca14a7f576.jpg">
+  <img src="https://telegra.ph/file/692c17cc052a9249b182a.jpg">
     
 </p>
 
